@@ -13,6 +13,10 @@ Assuming, I am a data analyst who has been provided with sample data and a mock-
 2. Create a dashboard according to the mock-up provided by stakeholders.
 3. Create relevant insights that are not provided in the metric list/mock-up dashboard.
 
-<h2>data Model</h2>
+<h2>Data Model</h2>
 
 ![data-model](https://github.com/tanweiyi00/Power-BI-Project/assets/134860918/d13f80aa-e6ca-4577-a65e-742b42be8fce)
+
+<h2>Dashboard</h2>
+
+![dashboard](https://github.com/tanweiyi00/Power-BI-Project/assets/134860918/7f381d31-ccbe-47bf-a5f2-04a53510598c)
