@@ -14,4 +14,4 @@ Assuming, I am a data analyst who has been provided with sample data and a mock-
 3. Create relevant insights that are not provided in the metric list/mock-up dashboard.
 
 <h2>data Model</h2>
-
+https://user-images.githubusercontent.com/134860918/243985325-87d65023-ace7-44eb-b2ba-962d8a847779.png
