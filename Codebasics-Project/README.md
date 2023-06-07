@@ -14,7 +14,5 @@ Assuming, I am a data analyst who has been provided with sample data and a mock-
 3. Create relevant insights that are not provided in the metric list/mock-up dashboard.
 
 <h2>data Model</h2>
-![image](https://user-images.githubusercontent.com/134860918/243985325-87d65023-ace7-44eb-b2ba-962d8a847779.png)
-<div align="center">
-    <img src="/user-images.githubusercontent.com/134860918/243985325-87d65023-ace7-44eb-b2ba-962d8a847779.png" width="400px"</img> 
-</div>
+
+![data-model](https://github.com/tanweiyi00/Power-BI-Project/assets/134860918/d13f80aa-e6ca-4577-a65e-742b42be8fce)
