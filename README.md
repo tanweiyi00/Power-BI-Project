@@ -1,2 +1,2 @@
 # Power-BI-Project
-Hi
+This is my Power BI Project.
