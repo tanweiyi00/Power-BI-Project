@@ -16,6 +16,12 @@ Assuming, I am a data analyst who has been provided with sample data and a mock-
 3. Create relevant insights that are not provided in the metric list/mock-up dashboard.
 
 <h2>Data Model</h2>
+This opportunity gave me firsthand experience of working in a company and served as a valuable chance to gain insights into the role and responsibilities of a data analyst.
+
+ 1. Learn how to apply metrics through appropriate visualization techniques. 
+ 2. Learn Power Query Editor DAX Language Data Modeliing
+ 3. Gain a deeper comprehension of proper data modeling practices. 
+ 4. Establish connections between tables using a star schema and establish many-to-one relationships.
 
 ![data-model](https://github.com/tanweiyi00/Power-BI-Project/assets/134860918/d13f80aa-e6ca-4577-a65e-742b42be8fce)
 
