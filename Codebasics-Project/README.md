@@ -44,6 +44,7 @@ Imported data from MS Excel to Power BI
 ![dashboard](https://github.com/tanweiyi00/Power-BI-Project/assets/134860918/7f381d31-ccbe-47bf-a5f2-04a53510598c)
 
 <h2>Insights from Dashboard</h2>
+
 1. Which city has the best performance?
 
 >Mumbai with highest revenue (660.6 M), RevPar of 8.9k, realisation rate of 70.24%, cancelation rate of 24.75%, and average rating of 3.65%
