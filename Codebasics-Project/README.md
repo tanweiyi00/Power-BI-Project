@@ -55,7 +55,7 @@ Imported data from MS Excel to Power BI
 
 3. Which room class has the best performance?
 
->Elite room class 
+>Elite room class with highest revenue (553.7 M), RevPar of 6.5k, and realisation rate of 70%
 
 4. Which hotel category generates most revenue?
 
