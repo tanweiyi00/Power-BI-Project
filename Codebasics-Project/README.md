@@ -23,8 +23,39 @@ This opportunity gave me firsthand experience of working in a company and served
  3. Gain a deeper comprehension of proper data modelling practices. 
  4. Establish connections between tables using a star schema and establish many-to-one relationships.
 
+Technology Used
+1. Power Bi (Business Intelligence Tool)
+2. Power Query Editor
+3. DAX Language
+4. Data Modeliing
+
+Imported data from MS Excel to Power BI
+1. Data transformation in Power Query editor
+2. Made measures important for Dashboarding
+3. Setup Dashboard background
+4. Set-up Dashboard Theme >Format Visuals
+5. Overall rating visualization
+6. Dashboard formatting
+
 ![data-model](https://github.com/tanweiyi00/Power-BI-Project/assets/134860918/d13f80aa-e6ca-4577-a65e-742b42be8fce)
 
 <h2>Dashboard</h2>
 
 ![dashboard](https://github.com/tanweiyi00/Power-BI-Project/assets/134860918/7f381d31-ccbe-47bf-a5f2-04a53510598c)
+
+<h2>Insights from Dashboard</h2>
+1. Which city has the best performance?
+
+>Mumbai with highest revenue (660.6 M), RevPar of 8.9k, realisation rate of 70.24%, cancelation rate of 24.75%, and average rating of 3.65%
+
+2. Which city has the least performance?
+
+>Delhi with lowest revenue (290.9 M), RevPar of 7.4k, realisation rate of 70.08%, cancelation rate of 25.03%, and average rating of 3.78%
+
+3. Which room class has the best performance?
+
+>Elite room class 
+
+4. Which hotel category generates most revenue?
+
+>Category Luxury generated more revenue than Business.
