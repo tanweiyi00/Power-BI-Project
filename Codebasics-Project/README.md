@@ -1,6 +1,6 @@
 <h1>Challenge #1: Provide Insights to the Revenue Team in the Hospitality Domain</h1>
 
-The Source for this data was used from this website: https://codebasics.io/challenge/codebasics-resume-project-challenge
+The source for this data was used from this website: https://codebasics.io/challenge/codebasics-resume-project-challenge
 
 <h2>Problem Statement</h2>
 
